@@ -1,72 +1,69 @@
-# Hi 👋, I'm Utsab Ghosh  
+## Hi there 👋 I'm Utsab Ghosh  
 
 ### Backend Developer | Node.js | Express | MySQL | REST APIs  
 
-🚀 Passionate backend developer with hands-on experience in building scalable APIs, authentication systems, and database-driven applications.  
-💡 Strong foundation in JavaScript, Node.js, and backend architecture.  
-📍 Based in India  
+Backend-focused developer passionate about building scalable APIs, secure authentication systems, and database-driven applications.  
+
+📍 India  
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🔭 Currently working on **Backend & API-based projects**
+- 🔭 Working on **Backend & API-based projects**
 - 🌱 Learning **advanced backend concepts & system design**
 - 💬 Ask me about **Node.js, Express, MySQL, REST APIs**
-- 📫 Reach me at: **[your-email@example.com]**
-- 🌐 Portfolio: **https://utsab96.github.io/portfolio/**
-- 📄 CV: **https://utsab96.github.io/cv/**
+- 🌐 Portfolio: https://utsab96.github.io/portfolio/
+- 📄 CV: https://utsab96.github.io/cv/
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- Node.js  
-- Express.js  
-- REST APIs  
-- JWT Authentication  
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 
-### Database
-- MySQL  
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend (Basic)
-- HTML  
-- CSS  
-- Bootstrap  
+### 🔐 Authentication
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
-### Tools & DevOps
-- Git & GitHub  
-- Docker  
-- Postman  
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔐 Auth Service (Node.js)
-**Production-ready authentication service**
-- JWT-based authentication
-- Secure password handling
-- Modular architecture  
+Production-ready authentication service with JWT  
+- Secure login & token handling  
+- Modular Express architecture  
 
-🔗 Repo: [auth-service-nodejs](https://github.com/Utsab96/auth-service-nodejs)
-
----
-
-### 🛒 eCommerce Backend
-- User & Admin roles
-- Product & order management
-- MySQL database integration  
+🔗 https://github.com/Utsab96/auth-service-nodejs
 
 ---
 
 ### 💊 Medicine API
-- RESTful API with MySQL
-- CRUD operations
+RESTful API built using Node.js & MySQL  
+- CRUD operations  
 - Express.js backend  
 
-🔗 Repo: https://github.com/Utsab96/medicine-api
+🔗 https://github.com/Utsab96/medicine-api
+
+---
+
+### 🛒 eCommerce Backend
+Backend system with:
+- User & Admin roles  
+- Product & Order management  
+- MySQL integration  
 
 ---
 
@@ -80,10 +77,8 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
 - 🌐 Portfolio: https://utsab96.github.io/portfolio/
-- 🧑‍💻 GitHub: https://github.com/Utsab96
+- 📄 CV: https://utsab96.github.io/cv/
+- 💻 GitHub: https://github.com/Utsab96
 
----
-
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ If you like my work, consider giving a star to my repositories!
